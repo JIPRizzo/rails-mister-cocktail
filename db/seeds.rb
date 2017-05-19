@@ -8,10 +8,10 @@
 
 
 
-Ingredient.create!(name: "lemon")
-Ingredient.create!(name: "ice")
-Ingredient.create!(name: "mint leaves")
-Ingredient.create!(name: "orange")
-Ingredient.create!(name: "soda")
-Ingredient.create!(name: "cinnamon")
-Ingredient.create!(name: "olives")
+Ingredient.create(name: "lemon")
+Ingredient.create(name: "ice")
+Ingredient.create(name: "mint leaves")
+Ingredient.create(name: "orange")
+Ingredient.create(name: "soda")
+Ingredient.create(name: "cinnamon")
+Ingredient.create(name: "olives")
